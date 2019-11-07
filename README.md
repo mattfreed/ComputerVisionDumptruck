@@ -13,10 +13,15 @@ Rough form:
 
 ## Expected parts:
 2 Motors
+
 Battery
+
 Camera
+
 Arduino
+
 Google Coral
+
 Servo
 
 Mostly everything will be located under the hood. The camera will be located on the rod as seen in the renders
