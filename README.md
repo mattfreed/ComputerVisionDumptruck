@@ -6,5 +6,14 @@ Matt Freed and Bil Leon
 
 Rough form:
 
-Expected parts: is there a display, a motor, batters, interface, etc? Where does the Pi/Arduino/other controller go?
-Interaction plan: how will people interact with your device?
+## Expected parts:
+2 Motors
+Battery
+Arduino
+Google Coral
+Servo
+
+Mostly everything will be located under the hood.
+
+## Interaction plan:
+People will put an object in the trunk of the truck, and a camera at the top of the truck will see it, and bring it to the right location, in which it will dump the object when it is in the right location
