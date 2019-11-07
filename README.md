@@ -5,6 +5,11 @@ A computer vision dump-truck robot for IDDFA19 at Cornell Tech
 Matt Freed and Bil Leon
 
 Rough form:
+![Photo](Renders/Render1.JPG)
+![Photo](Renders/Render2.JPG)
+![Photo](Renders/Rend3.JPG)
+![Photo](Renders/Rend4.JPG)
+![Photo](Renders/Rend5.JPG)
 
 ## Expected parts:
 2 Motors
