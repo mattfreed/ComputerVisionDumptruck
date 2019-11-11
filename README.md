@@ -10,9 +10,11 @@ Rough form:
 ![Photo](RendersV2/Ren3.JPG)
 ![Photo](RendersV2/Ren4.JPG)
 ![Photo](RendersV2/Ren5.JPG)
-![Photo](RendersV2/Photo1.jpg)
-![Photo](RendersV2/Photos2.jpg)
-![Photo](RendersV2/Photo3.jpg)
+![Photo](RendersV2/Photo4.jpg)
+![Photo](RendersV2/Photo5.jpg)
+![Photo](RendersV2/Photo6.jpg)
+![Photo](RendersV2/Photo7.jpg)
+![Photo](RendersV2/Photo8.jpg)
 
 ## Expected parts:
 2 Motors
