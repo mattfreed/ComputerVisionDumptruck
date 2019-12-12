@@ -71,6 +71,15 @@ Connect the servo wires to the arduino located inside the electronics bay.
 Connect the two arduinos now to the Pi's usb ports, along with the camera usb.
 
 
-
 ## Step 3: Programming
+
+Flash the servo arduino with the servo code and the motor arduino with the motor controller code. 
+
+Flash the Pi with the supplied code for computer vision, this will tell the pi what is inside the dump bed, alonog with what servo to send information to.
+
+## Step 4: Watch!
+
+Turn the robot on and place a hot dog inside the bed! If done correctly, the robot should see the hot dog and know that it must go straight, then to the right, then dump the hotdog, and then return back to you!
+
+Congrats you are now a robot wizard!
 
