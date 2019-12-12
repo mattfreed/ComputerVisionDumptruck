@@ -17,6 +17,13 @@ Rough form:
 ![Photo](RendersV2/Photo8.jpg)
 ![Photo](Completed.jpg)
 
+## Videos:
+https://www.youtube.com/watch?v=ux81tY8T8iU
+
+https://www.youtube.com/watch?v=gVR7a9DyGOU
+
+https://www.youtube.com/watch?v=SawVYpYz-DI
+
 ## Expected parts:
 2 Motors
 
@@ -34,3 +41,14 @@ Mostly everything will be located under the hood. The camera will be located on 
 
 ## Interaction plan:
 Shop bot is a workshop-helper. No more needing too put your tools in the right locations, simply put the tool into shop-bots basket and it will bring the tool to the right place!
+
+
+## Step 1: Design
+
+
+## Step 2: Manufacturing 
+
+## Step 3: Assembly
+
+## Step 4: Programming
+
