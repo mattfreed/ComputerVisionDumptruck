@@ -75,7 +75,11 @@ Connect the two arduinos now to the Pi's usb ports, along with the camera usb.
 
 Flash the servo arduino with the servo code and the motor arduino with the motor controller code. 
 
-Flash the Pi with the supplied code for computer vision, this will tell the pi what is inside the dump bed, alonog with what servo to send information to.
+The servo code is a simple "sweep" code adjustment, where the servo will move to 1 position, then return to its original position.
+
+The motor controller code utilizes a library which allows the motors to run both forwards and backwards. This is necessary for moving backwards and turning.
+
+Flash the Pi with the supplied code for computer vision, this will tell the pi what is inside the dump bed, alonog with what arduino to send information to.
 
 ## Step 4: Watch!
 
