@@ -58,7 +58,7 @@ Download the cad files that are located in this repository. These parts were cus
 
 These parts were designed to be 3d printed. 3D print the files and assemble them, referencing the render models for where each part goes. 3D printers are not exact when printing parts, and therefore the parts may need be sanded down to freely move depending on which 3D printer was used. 
 
-Once all are attached, begin mounting the elctronics. The servo belongs in the front, and should frictiono fit in place in its locking location. The motors also should friction fit into place on the rear of the robot.
+Once all are attached, begin mounting the elctronics. The servo belongs in the front, and should friction fit in place in its locking location. The motors also should friction fit into place on the rear of the robot.
 
 Screw 2 caster wheels to the front of the underside of the robot on the platforms supplied.
 
