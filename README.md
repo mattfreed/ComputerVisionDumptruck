@@ -79,11 +79,11 @@ The servo code is a simple "sweep" code adjustment, where the servo will move to
 
 The motor controller code utilizes a library which allows the motors to run both forwards and backwards. This is necessary for moving backwards and turning.
 
-Flash the Pi with the supplied code for computer vision, this will tell the pi what is inside the dump bed, alonog with what arduino to send information to.
+Flash the Pi with the supplied code for computer vision, this will tell the pi what is inside the dump bed, along with what arduino to send information to. The included TensorFlow Lite model includes detection for hotdogs (and aggressive detection of humans).
 
 ## Step 4: Watch!
 
-Turn the robot on and place a hot dog inside the bed! If done correctly, the robot should see the hot dog and know that it must go straight, then to the right, then dump the hotdog, and then return back to you!
+Power the robot with a USB-C Power Delivary battery and place a hot dog inside the bed! If done correctly, the robot should see the hot dog, beep loudly, and know that it must go straight, then to the right, then dump the hotdog, and then return back to you!
 
-Congrats you are now a robot wizard!
+Congrats you are now a robot wizard, harry!
 
